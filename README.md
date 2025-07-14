@@ -81,7 +81,6 @@
     <a href="mailto:rksingh3273@gmail.com">
       <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF5733&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo" />
     </a>
-    <img width="20" />
     <a href="https://www.linkedin.com/in/karan-singh-rajput-6922391b1/">
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=00C4B4&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
     </a>
